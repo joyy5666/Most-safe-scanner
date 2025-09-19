@@ -4,6 +4,9 @@
 # Most-safe-scanner
 SCANNER FOR SCRIPTS
 
+# IMPORTANT NEWS 
+**YOU NEED SCAN SCRIPT TO YOU NEED MOVE SCRIPT IN Most-safe-scanner TO YOU CAN RUN IT**
+
 # SETUP CODE 
 pkg update && pkg upgrade
 
