@@ -1,4 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 # Most-safe-scanner
 SCANNER FOR SCRIPTS
