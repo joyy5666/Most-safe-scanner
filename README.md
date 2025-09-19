@@ -6,7 +6,7 @@ pkg update && pkg upgrade
 
 pkg install git
 
-git clone https://github.com/joyy5666/Most-safe-
+git clone https://github.com/joyy5666/Most-safe-scanner.git
 
 scanner.git
 
