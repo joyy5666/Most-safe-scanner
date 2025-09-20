@@ -28,7 +28,7 @@ chmod +x Scanner.sh
 
 ## 1. Interactive Menu
 
-### A clean text-based menu like in your screenshot.
+### A clean text-based menu like in image.
 
 
 
